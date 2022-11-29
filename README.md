@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
 The purpose of this repository is to overlay earthquake data and visualize it for the average person.  While visualizing this data I did not realize how many earthquakes happen each week.  The different styles and map backgrounds give this data an added visual appeal.  Overall I enjoyed this challege because I enjoy the data visualization aspect of this course.
 
